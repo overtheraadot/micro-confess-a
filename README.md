@@ -10,9 +10,9 @@ A make.fun entry for "Unsent: The Micro-Confession Sprint" — one micro-confess
 
 > To: Rani, my old friend
 >
-> I never thanked you for sitting next to me on the bus every morning after Dad left — I was too scared to say it out loud in case you stopped.
+> I never thanked you for sitting next to me on the bus every morning after Dad left — I was too scared to say it out loud in case you stopped sitting there.
 
-165 characters, 2 lines. A thank-you that never got said: not because it wasn't felt, but because saying it out loud felt like risking the one small kindness that was keeping the mornings bearable.
+179 characters, 2 lines. A thank-you that never got said: not because it wasn't felt, but because saying it out loud felt like risking the one small kindness that was keeping the mornings bearable — the seat beside him on the bus.
 
 ## Run it
 
