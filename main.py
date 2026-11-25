@@ -8,7 +8,7 @@ itself, one line exactly as typed.
 ENTRY = (
     "To: Rani, my old friend\n"
     "I never thanked you for sitting next to me on the bus every morning "
-    "after Dad left \u2014 I was too scared to say it out loud in case you stopped."
+    "after Dad left \u2014 I was too scared to say it out loud in case you stopped sitting there."
 )
 
 
